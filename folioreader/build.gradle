@@ -6,18 +6,8 @@ apply plugin: 'kotlin-android-extensions'
 ext {
 
 
-    siteUrl = 'https://github.com/FolioReader/FolioReader-Android'
-    gitUrl = 'https://github.com/FolioReader/FolioReader-Android.git'
 
     libraryVersion = versions.folioreaderSdk
-
-    developerId = 'mobisystech'
-    developerName = 'Folio Reader'
-    developerEmail = 'mahavir@codetoart.com'
-
-    licenseName = 'FreeBSD License'
-    licenseUrl = 'https://en.wikipedia.org/wiki/FreeBSD_Documentation_License#License'
-    allLicenses = ["FreeBSD"]
 }
 
 android {
