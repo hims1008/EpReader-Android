@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/folioreader/build/
+/folioreader/build/intermediates/javac/debug/classes/
